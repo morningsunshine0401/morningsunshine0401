@@ -39,8 +39,8 @@ Using LLM api to control Tello drone with voice input!
 ### ⚡ [Click-to-Auto-Annotate](https://github.com/morningsunshine0401/Click-to-Auto-Annotate)
 Interactive annotation tool for aerial imagery, optimized for speed and accuracy.
 
-### 📦 [RUUN_GLUE](https://github.com/morningsunshine0401/RUUN_GLUE)
-Vision-based pose estimation and multi-agent simulation platform.
+### 📦 NEW! [Anti-Drone]https://github.com/morningsunshine0401/RUUN_Anti_Drone_Sub_Project
+Vision based anti drone sub-project!
 
 ---
 
